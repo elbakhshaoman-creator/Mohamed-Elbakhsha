@@ -1,0 +1,6 @@
+{
+  "name": "منصة إدارة الحصة التفاعلية – الصف التاسع",
+  "description": "منصة تفاعلية احترافية لمعلم الرياضيات لإدارة الحصص والطلاب والمجموعات والنقاط والتحديات للصف التاسع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
